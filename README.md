@@ -1,10 +1,8 @@
-### Hi there 👋
+### 안녕하세요 모의해킹전문가가 꿈인 이종원입니다.👋
 
 <!--
-**Lee-jong-won/Lee-jong-won** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**Lee-jong-won/Jongternalsunshine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![github stats](https://github-readme-stats.vercel.app/api?username=Lee-jong-won&show_icons=true&hide_border=true)](https://github.com/Lee-jong-won)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-jong-won&layout=compact)](https://github.com/Lee-jong-won)
