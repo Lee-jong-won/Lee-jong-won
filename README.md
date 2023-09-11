@@ -1,5 +1,3 @@
-### 안녕하세요 정보보안전문가가 꿈인 이종원입니다.👋
-### 관심분야:수학/논리학/C프로그래밍 희망직종:정보보안(암호학 또는 모의해킹전문가)
 ### 깃허브 사용용도:컴퓨터공학 학문 공부 기록 ex)네트워크,보안,자료구조,c프로그래밍
 <!--
 **Lee-jong-won/Jongternalsunshine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
